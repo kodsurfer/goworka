@@ -1,3 +1,16 @@
+
+# logging
+
+# db connect
+
+# start
+
+# list rooms
+
+# room details
+
+# reserve room
+
 def main():
     print('It works!')
 
